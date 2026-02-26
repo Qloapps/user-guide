@@ -7,12 +7,10 @@ module.exports = {
   head: [
       ['link', { rel: "icon", type: "image/png", href: "/favicon.ico"}],
       ['script', { type: 'text/javascript', src: 'https://webkul.chatwhizz.com/chat-support/js/wk-chat-support.js', async: true }],
-      ['script', {}, `
-        (function () {
-          var style = document.createElement('style');
-          style.textContent = '.wk-cw-chatbot-textCointainer textarea#wk-cw-message{min-height:unset!important;}';
-          document.head.appendChild(style);
-        })();
+      ['style', {}, `
+        .wk-cw-chatbot-textCointainer textarea#wk-cw-message{
+          min-height: unset !important;
+        }
       `],
   ],
   themeConfig: {

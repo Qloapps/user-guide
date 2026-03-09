@@ -11,6 +11,10 @@ module.exports = {
         .wk-cw-chatbot-textCointainer textarea#wk-cw-message{
           min-height: unset !important;
         }
+        .wk-cw-liveChatCointainer,
+        .wk-cw-liveChatCointainer .operator-to-user-msg{
+          line-height: 1.4 !important;
+        }
       `],
   ],
   themeConfig: {

@@ -50,6 +50,24 @@ module.exports = {
         collapsable: true,
       },
       {
+        title: 'Front Office Features',
+        path: '/front_office/',
+        collapsable: true,
+        children: [
+          ['front_office/home_page/', 'Home Page'],
+          ['front_office/room_listing/', 'Room Listing Page'],
+          ['front_office/room_detail/', 'Room Detail Page'],
+          ['front_office/checkout/', 'Checkout Page'],
+          ['front_office/guest_information/', 'Guest Information'],
+          ['front_office/payment_information/', 'Payment Information'],
+          ['front_office/booking_confirmation/', 'Booking Confirmation'],
+          ['front_office/booking_history/', 'Booking History'],
+          ['front_office/my_account/', 'My Account'],
+          ['front_office/contact_us/', 'Contact Us'],
+          ['front_office/our_properties/', 'Our Properties'],
+        ]
+      },
+      {
         title: 'Dashboard',
         path: '/dashboard/',
         collapsable: true,

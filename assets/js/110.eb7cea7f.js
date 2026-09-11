@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[110],{727:function(t,n,e){"use strict";e.r(n);var s={data:()=>({date:(new Date).getFullYear()})},a=e(17),i=Object(a.a)(s,(function(){return(0,this._self._c)("div",[this._v("\n  Copyright © "+this._s(this.date)+" QloApps\n")])}),[],!1,null,null,null);n.default=i.exports}}]);

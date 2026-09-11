@@ -13,4 +13,4 @@ The page includes the following information for each property:
 * **Email Address:** Hotel email address.
 * **View Rooms:** Redirects guests to the selected hotel's room listing page, where they can browse available room types and continue with the booking process.
 
-> **Note for Administrators:** The **Our Properties** page can be enabled from **HRS → General Settings → Website Configuration → Display Our Properties link in Header**. For more information, refer to the QloApps documentation: https://docs.qloapps.com/hrs/general_settings/#general-settings-2
+> **Note for Administrators:** The **Our Properties** page can be enabled from **HRS → General Settings → Website Configuration → Display Our Properties link in Header**. For more information, refer to the QloApps documentation: [General Settings](https://docs.qloapps.com/hrs/general_settings/#general-settings-2)

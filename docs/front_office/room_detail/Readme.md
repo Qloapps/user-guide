@@ -23,7 +23,7 @@ It includes:
 * **Main Room Image:** Displays a large preview image of the room.
 * **Room Image Thumbnails:** Displays additional room images. Guests can click a thumbnail to view it in the main image area.
 
-> **Note for Administrators:** Room images can be managed from the Back Office by navigating to **Catalog → Manage Room Types**, selecting the desired room type and opening the **Images** section. For more information, refer to the QloApps documentation: https://docs.qloapps.com/catalog/manage_room_types/#images-section
+> **Note for Administrators:** Room images can be managed from the Back Office by navigating to **Catalog → Manage Room Types**, selecting the desired room type and opening the **Images** section. For more information, refer to the QloApps documentation: [Images](https://docs.qloapps.com/catalog/manage_room_types/#images-section)
 
 
 ## Extra Services
@@ -31,7 +31,7 @@ It includes:
 If the hotel offers additional services, they are displayed in this section under different categories such as **Restaurant** and **Transfers**. Guests can browse the available services, review their descriptions and pricing, and click **Select** to add them to their booking.
 
 
-> **Note for Administrators:** Extra services can be managed from **Catalog → Manage Service Products** in the Back Office. While creating a service product, you can associate it with one or more hotels and specific room types, allowing you to control which services are available for each room. For more information, refer to the QloApps documentation: https://docs.qloapps.com/catalog/manage_service_products/
+> **Note for Administrators:** Extra services can be managed from **Catalog → Manage Service Products** in the Back Office. While creating a service product, you can associate it with one or more hotels and specific room types, allowing you to control which services are available for each room. For more information, refer to the QloApps documentation: [Manage Service Products](https://docs.qloapps.com/catalog/manage_service_products/)
 
 ![Room services](./services.png)
 

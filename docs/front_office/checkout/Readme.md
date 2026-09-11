@@ -40,7 +40,7 @@ Displays the final amount payable by the guest, including room charges and appli
 
 If a promotional code is available, enter it in the coupon field and click **Apply** to receive the applicable discount.
 
-> **Note for Administrators:** Coupons can be created and managed from **Manage Discounts → Cart Rules** in the Back Office. For more information, refer to the QloApps documentation: **https://docs.qloapps.com/manage-discounts/cart-rules/**.
+> **Note for Administrators:** Coupons can be created and managed from **Manage Discounts → Cart Rules** in the Back Office. For more information, refer to the QloApps documentation: [Cart Rules](https://docs.qloapps.com/discounts/cart_rule/).
 
 
 ## Proceed

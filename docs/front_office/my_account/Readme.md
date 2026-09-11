@@ -103,7 +103,7 @@ If voucher generation is enabled by the hotel, guests can click **Generate Vouch
 
 The **Status** column indicates whether the credit slip is currently active and available for use.
 
-> **Note for Administrators:** Credit slips are automatically generated for eligible refunded bookings based on the configured refund settings. Guests can access their credit slips from **My Account → Credit Slips**. For more information about credit slips and refunds, refer to the documentation: https://docs.qloapps.com/orders/credit_slips/.
+> **Note for Administrators:** Credit slips are automatically generated for eligible refunded bookings based on the configured refund settings. Guests can access their credit slips from **My Account → Credit Slips**. For more information about credit slips and refunds, refer to the documentation: [Credit Slips](https://docs.qloapps.com/orders/credit_slips/).
 
 ### Voucher Generated
 

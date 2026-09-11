@@ -24,7 +24,7 @@ During Guest Checkout, guests must provide the following information:
 
 Fields marked with an asterisk (*) are mandatory.
 
-> **Note for Administrators:** Guest Checkout can be enabled or disabled from **Preferences → Orders → General → Enable Guest Checkout**. For more information, refer to the QloApps documentation: https://docs.qloapps.com/preferences/orders/#general
+> **Note for Administrators:** Guest Checkout can be enabled or disabled from **Preferences → Orders → General → Enable Guest Checkout**. For more information, refer to the QloApps documentation: [General](https://docs.qloapps.com/preferences/orders/#general)
 
 
 ![Guest Information](./guest_checkout_info.png)

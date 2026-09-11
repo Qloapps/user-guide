@@ -26,19 +26,19 @@ The Header Section is displayed at the top of every page in the QloApps Front Of
 
 - **Hotel logo**: The hotel logo helps visitors identify the property and strengthens brand recognition. Guests can click the logo from any page to return to the Home Page.
 
-    > **Note for Administrators:** To change the website header logo displayed on the Front Office, navigate to **Preferences → Themes → Logo → Header Logo** in the Back Office and upload the desired logo. For more information, refer to the QloApps documentation: https://docs.qloapps.com/preferences/themes/#add-new-theme
+    > **Note for Administrators:** To change the website header logo displayed on the Front Office, navigate to **Preferences → Themes → Logo → Header Logo** in the Back Office and upload the desired logo. For more information, refer to the QloApps documentation: [Add New Theme](https://docs.qloapps.com/preferences/themes/#add-new-theme)
 
 - **Contact**: The contact section displays the hotel's phone number and email address.
 
-    > **Note for Administrators:** The support email address and phone number displayed in the Front Office header can be configured from **HRS → General Settings → General Settings → Hotel Configuration → Support Contact Details**. For more information, refer to the QloApps documentation: https://docs.qloapps.com/hrs/general_settings/#general-settings-2
+    > **Note for Administrators:** The support email address and phone number displayed in the Front Office header can be configured from **HRS → General Settings → General Settings → Hotel Configuration → Support Contact Details**. For more information, refer to the QloApps documentation: [General Settings](https://docs.qloapps.com/hrs/general_settings/#general-settings-2)
 
 - **Language Selector**: The **Language Selector** allows guests to browse the website in their preferred language. Selecting a language updates the website content, making it easier for guests to navigate and complete their bookings.
 
-    > **Note for Administrators:** Additional languages can be added or managed from **Localization → Languages**. For more information, visit our QloApps documentation: https://docs.qloapps.com/localization/languages/
+    > **Note for Administrators:** Additional languages can be added or managed from **Localization → Languages**. For more information, visit our QloApps documentation: [Languages](https://docs.qloapps.com/localization/languages/)
 
 - **Currency Selector**: The **Currency Selector** allows guests to view room rates and booking prices in their preferred currency. Selecting a different currency updates the displayed prices across the website.
 
-    > **Note for Administrators:** Currencies can be managed from **Localization → Currencies**. For more information, visit our QloApps documentation: https://docs.qloapps.com/localization/currency/
+    > **Note for Administrators:** Currencies can be managed from **Localization → Currencies**. For more information, visit our QloApps documentation: [Currencies](https://docs.qloapps.com/localization/currency/)
 
 - **Sign In**: The Sign In option allows registered customers to access their accounts and manage their bookings. When clicked, guests will land on the authentication page.
 
@@ -86,7 +86,7 @@ Administrators can:
 
 > **Note for Administrators:** Navigation links can be managed from the Back Office by navigating to **Modules & Services → Manage Modules → Navigation Block → Configure**. From here, you can add **CMS pages**, **theme pages**, and **custom URLs** to the navigation menu. You can also choose which links are displayed in the **Navigation Menu** and the **website footer**.
 
-> **Note for Administrators:** CMS pages can be created and managed from the Back Office by navigating to **Preferences → CMS**. From here, you can create new CMS pages including their titles and content. For more information, refer to the QloApps documentation: https://docs.qloapps.com/preferences/cms/
+> **Note for Administrators:** CMS pages can be created and managed from the Back Office by navigating to **Preferences → CMS**. From here, you can create new CMS pages including their titles and content. For more information, refer to the QloApps documentation: [CMS](https://docs.qloapps.com/preferences/cms/)
 
 ## Hero Banner Section
 
@@ -101,7 +101,7 @@ The Hero Banner is the primary promotional area of the homepage. It creates the 
 - **Hotel name**: Displays the hotel name prominently on the homepage.
 - **Hotel tagline**: Displays a short promotional message or slogan that reflects the hotel's brand and services.
 
-> **Note for Administrators:** Website-related settings, such as the homepage header background image, Contact Us page options, Our Properties link, and other Front Office display configurations, can be managed from **HRS → General Settings → General Settings → Website Configuration**. For more information, refer to the QloApps documentation: https://docs.qloapps.com/hrs/general_settings/#general-settings-2
+> **Note for Administrators:** Website-related settings, such as the homepage header background image, Contact Us page options, Our Properties link, and other Front Office display configurations, can be managed from **HRS → General Settings → General Settings → Website Configuration**. For more information, refer to the QloApps documentation: [General Settings](https://docs.qloapps.com/hrs/general_settings/#general-settings-2)
 
 ## Room Search Panel
 
@@ -116,9 +116,9 @@ Guests can enter the following details:
 - **Occupancy Selection**: Allows guests to specify number of adults and rooms.
 - **Search Rooms**: After entering the required information, guests can click **Search Rooms** to view available accommodations.
 
-> **Note for Administrators:** If you want guests to search for rooms **without selecting occupancy**, navigate to **Preferences → Room Types → Search** and set **Front End Search Type** to **Search without occupancy**. For more information, refer to the QloApps documentation: https://docs.qloapps.com/preferences/room_types/#search
+> **Note for Administrators:** If you want guests to search for rooms **without selecting occupancy**, navigate to **Preferences → Room Types → Search** and set **Front End Search Type** to **Search without occupancy**. For more information, refer to the QloApps documentation: [Search](https://docs.qloapps.com/preferences/room_types/#search)
 
-> **Note for Administrators:** If you do not want guests to search by hotel location, you can disable the **Hotel Location** field from **HRS → General Settings → Search Panel Settings → Enable Hotel Location**. For more information, refer to the QloApps documentation: https://docs.qloapps.com/hrs/general_settings/#general-settings-2
+> **Note for Administrators:** If you do not want guests to search by hotel location, you can disable the **Hotel Location** field from **HRS → General Settings → Search Panel Settings → Enable Hotel Location**. For more information, refer to the QloApps documentation: [General Settings](https://docs.qloapps.com/hrs/general_settings/#general-settings-2)
 
 ## Hotel Interior Block
 
@@ -136,7 +136,7 @@ The block includes:
 - **Interiors Block Description**: Displays a brief introduction to the hotel's interiors and facilities.
 - **Interior Image**: Displays images of hotel rooms, amenities, and other property areas.
 
-> **Note for Administrators:** The **Hotel Interior Block** displayed on the Front Office homepage can be configured from **HRS → General Settings → Hotel Interior Block**. For more information, refer to the QloApps documentation: https://docs.qloapps.com/hrs/general_settings/#hotel-interior-block
+> **Note for Administrators:** The **Hotel Interior Block** displayed on the Front Office homepage can be configured from **HRS → General Settings → Hotel Interior Block**. For more information, refer to the QloApps documentation: [Hotel Interior Block](https://docs.qloapps.com/hrs/general_settings/#hotel-interior-block)
 
 ## Hotel Amenities Block
 
@@ -152,7 +152,7 @@ Each amenity card may include:
 - **Amenity Name**: Shows the name of the service or facility.
 - **Amenity Description**: Provides a brief overview of the amenity and its benefits.
 
-> **Note for Administrators:** The **Hotel Amenities Block** displayed on the Front Office homepage can be configured from **HRS → General Settings → Hotel Amenities Block**. For more information, refer to the QloApps documentation: https://docs.qloapps.com/hrs/general_settings/#hotel-amenities-block
+> **Note for Administrators:** The **Hotel Amenities Block** displayed on the Front Office homepage can be configured from **HRS → General Settings → Hotel Amenities Block**. For more information, refer to the QloApps documentation: [Hotel Amenities Block](https://docs.qloapps.com/hrs/general_settings/#hotel-amenities-block)
 
 
 ## Our Rooms Section

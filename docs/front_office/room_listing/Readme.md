@@ -60,7 +60,7 @@ Click **Add Room** to include an additional room in the reservation. A separate 
 
 **2) Rooms Quantity (No. of rooms):** Guests simply select the number of rooms they want to book without specifying occupancy during room selection.
 
-> **Note for Administrators**: To configure the preferred booking method from the Back Office, navigate to Preferences → Room Types → Search → In front-end, add rooms to cart with and choose either Room Occupancy or Rooms Quantity (No. of rooms). For more information, refer to the QloApps documentation: https://docs.qloapps.com/preferences/room_types/#search
+> **Note for Administrators**: To configure the preferred booking method from the Back Office, navigate to Preferences → Room Types → Search → In front-end, add rooms to cart with and choose either Room Occupancy or Rooms Quantity (No. of rooms). For more information, refer to the QloApps documentation: [Search](https://docs.qloapps.com/preferences/room_types/#search)
 
 ![room_wise_occupancy](./room_wise.png)
 

@@ -43,7 +43,7 @@ The page may include information such as:
 
 Guests are advised to review these policies before requesting a cancellation.
 
-> **Note for Administrators:** To enable Order Refunds, navigate to Hotel Reservation System → Manage Order Refund Rules → Order Refund Settings and enable the Order Refund option. For more information, refer to the QloApps documentation: https://docs.qloapps.com/hrs/manage_refund_rules/
+> **Note for Administrators:** To enable Order Refunds, navigate to Hotel Reservation System → Manage Order Refund Rules → Order Refund Settings and enable the Order Refund option. For more information, refer to the QloApps documentation: [Manage Order Refund Rules](https://docs.qloapps.com/hrs/manage_refund_rules/)
 
 > **Note for Administrators:** CMS pages can be managed from the Back Office. Navigate to **Preferences → CMS**, edit the **Terms and Conditions** page, and update the required content.
 
@@ -71,7 +71,7 @@ Click **Submit** to send the cancellation request to the hotel.
 
 After the request is submitted, it is sent to the hotel for review. The hotel administrator can approve or reject the request according to the configured cancellation policy.
 
-> **Note for Administrators**: Cancellation and refund requests submitted by guests can be viewed and managed from Hotel Reservation System → Manage Order Refund Requests in the Back Office. For more information, refer to the QloApps documentation: https://docs.qloapps.com/hrs/manage_refund_request/.
+> **Note for Administrators**: Cancellation and refund requests submitted by guests can be viewed and managed from Hotel Reservation System → Manage Order Refund Requests in the Back Office. For more information, refer to the QloApps documentation: [Manage Order Refund Requests](https://docs.qloapps.com/hrs/manage_refund_request/).
 
 ## Cancellation Request Status
 
@@ -96,7 +96,7 @@ Guests are advised to review these policies before their stay.
 
 ![Add a Message](./message.png)
 
-> **Note for Administrators:** Hotel policies can be managed from Hotel Reservation System → Manage Hotels by editing the desired hotel. For more information, refer to the QloApps documentation: https://docs.qloapps.com/hrs/manage_hotel/#add-a-new-hotel.
+> **Note for Administrators:** Hotel policies can be managed from Hotel Reservation System → Manage Hotels by editing the desired hotel. For more information, refer to the QloApps documentation: [Add a New Hotel](https://docs.qloapps.com/hrs/manage_hotel/#add-a-new-hotel).
 
 ## Add a Message
 
@@ -111,4 +111,4 @@ To send a message:
 
 The message will be associated with the selected room type and shared with the hotel.
 
-> **Note for Administrators**: Guest messages are available in the Back Office under Customers → Customer Service. For more information, refer to the QloApps documentation: https://docs.qloapps.com/customers/customer_service/customer_service.html#view-customer-service.
+> **Note for Administrators**: Guest messages are available in the Back Office under Customers → Customer Service. For more information, refer to the QloApps documentation: [Customer Service](https://docs.qloapps.com/customers/customer_service/customer_service.html#view-customer-service).

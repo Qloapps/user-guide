@@ -32,7 +32,7 @@ The **Booking Summary** section is also updated to display:
 Click **OK** to confirm the selected payment type and proceed with the payment.
 
 
-> **Note for Administrators:** Administrators can enable **Advance Payment**  from **Hotel Reservation System → General Settings → Advance Payment Global Settings**. The minimum booking amount can be set as a **percentage of the booking amount**. For more information, refer to the QloApps documentation: **https://docs.qloapps.com/hrs/general_settings/#general-settings-2**.
+> **Note for Administrators:** Administrators can enable **Advance Payment**  from **Hotel Reservation System → General Settings → Advance Payment Global Settings**. The minimum booking amount can be set as a **percentage of the booking amount**. For more information, refer to the QloApps documentation: [General Settings](https://docs.qloapps.com/hrs/general_settings/#general-settings-2).
 
 Guests must agree to the hotel's terms and conditions before proceeding with the payment. To review the terms, click **Read the Terms of Service**.
 

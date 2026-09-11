@@ -59,7 +59,7 @@ The **Order Confirmation / Overbooking Email** settings allow the admin to confi
 
 The **Overbooking section** allows the admin to configure actions for overbooked orders, such as:
 
-![overbooking!](Orders-%20overbooking.png)
+![overbooking!](./Orders-overbooking.png)
 - **Overbookin order action**: If admin choose to select "Take the overbooking" then he'll see a new option
 - **Maximun hotel overbookings per date**: Here, he have to enter the max number of overbooking that can be created for any date.
 

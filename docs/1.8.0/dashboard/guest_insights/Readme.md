@@ -14,9 +14,9 @@ Let's discuss what metric is highlighted by each parameter in detail:
 
 2. **Departure**: Departure refers to the number of guests who are leaving your hotel on the current day (today). It also displays how many guests have departed out of the total scheduled departures.
 
-3. **New Bookings**: It displays the number of new bookings received by your hotel today.
+3. **No-show Bookings**: The number of bookings marked as No-show today so far.
 
-4. **No-show Bookings**: The number of bookings marked as No-show today so far.
+4. **New Bookings**: It displays the number of new bookings received by your hotel today.
 
 5. **Occupied Rooms**: The count of rooms currently occupied by guests.
 

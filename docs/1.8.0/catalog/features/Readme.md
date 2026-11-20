@@ -20,4 +20,8 @@ The list shows the **ID**, **Icon**, **Name**, **Is Featured** and **Position** 
 
 ![features add icon](./features-add-icon.png)
 
-To add the values of a feature (for example, the different bed types of a "Bed Type" feature), click on the **View** button of the feature and then click on the **Add new room feature value** button.
+To add the values of a feature, click on the **View** button of the feature and then click on the **Add new room feature value** button. Then select the values for each room type in the **Features** tab of the room type.
+
+## Featured features
+
+A feature with **Is Featured** set to **Yes** is a featured feature. On the Front Office, each room card shows the featured features of the room as an icon followed by its value, and the checkout page shows them in the booking summary. You can set how many are shown from [General Settings](/1.8.0/hrs/general_settings/): **Max Featured room type features on room search page**, **Max Featured room type features on Checkout page** and **Max display values for room type Featured features**. Enter 0 to show all.

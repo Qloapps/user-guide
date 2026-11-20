@@ -36,6 +36,16 @@ If you choose **Icon (Font Awesome)** as the logo type, the **Icon Class** field
 
 Click on **Save** to save the amenity.
 
+## Featured amenities
+
+On the **Amenities** tab of a hotel and of a room type, you can also select **Featured amenities** from the amenities you selected. Featured amenities are shown to the guests on the Front Office:
+
+- **Room list:** Each room card shows the featured amenities of the room as icons. The name of the amenity is shown when the guest moves the mouse over the icon.
+- **Room detail page:** In the **Room Information** tab, **Featured Amenities** shows the featured amenities of the room type first, then the featured amenities of the hotel, without repeating any.
+- **Amenities filter:** The room list has an **Amenities** filter that lists the active amenities of this page. Only the rooms that have all the selected amenities are displayed.
+
+To limit the number of featured amenities shown on each room card, set **Max featured amenities in room search** in [General Settings](/1.8.0/hrs/general_settings/). Enter 0 to show all.
+
 ## Edit or delete an Amenity or a Category
 
 - Click on the **Edit** button of a category block to change its name and position, or on the **Edit** button of an amenity to change its details.

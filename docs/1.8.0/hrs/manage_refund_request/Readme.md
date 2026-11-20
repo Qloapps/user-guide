@@ -33,7 +33,7 @@ After clicking on View, you will be redirected to a page displaying the followin
 - **Way of payment:**
 - **Current order state:**
 - **Current refund state:**
-- **Request type:** Shows whether the request is a **Cancellation**, a **No-show** or a **Refund** request.
+- **Request type:** Shows whether the request is a **Cancellation**, a **No-show** or a **Refund** request. A **Cancellation** or **No-show** request is created automatically with the status **Pending** when an employee sets a room to Cancelled or No-show from the order page, if refunds are enabled.
 
 ![View refund!](./view_refund.png)
 

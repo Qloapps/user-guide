@@ -15,6 +15,8 @@ It contains two boxes (a third box, **Cron Task Manager**, is also shown here wh
 
 - **Cron Task Manager**: This box appears only when the server cron job of the Cron Task Manager module is not detected. It shows the message "Server cron job not detected" with a **Configure Cron Job** link that opens the module's configuration page. See [Cron Task Manager](/1.8.0/advance_parameter/cron_task_manager/).
 
+![Cron Task Manager box](./cron_box.png)
+
 
 
 

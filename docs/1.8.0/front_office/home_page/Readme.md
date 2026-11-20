@@ -178,7 +178,7 @@ Each room card includes:
 - Room Image: Displays a preview image of the room.
 - Room Name: Shows the room type available for booking.
 - Property Name and Location (optional): Shows the property name and location below the room name when enabled by the administrator.
-- Room Features: Shows the key features of the room, such as the bed type and room area, using icons and values.
+- Room Features: Shows the key features of the room, such as the room size and the TV type, using icons and values.
 - Room Amenities: Shows icons of the amenities available in the room.
 - Room Price: Displays the room rate per night (**/ Night**). If a discount applies, the original price is shown with a strike through.
 - Book Now: Allows guests to proceed with booking the selected room. If booking is disabled for the website, for example in catalog mode, the button is displayed as **View**.

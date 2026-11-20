@@ -16,7 +16,7 @@ To view additional information about the room, click **View More**.
 > **Note for Administrators:** Room details such as the name, price, and description can be updated from Catalog → Manage Room Types by editing the desired room type. Changes are automatically reflected on the Front Office.
 
 
-**Room Features:** Displays the featured features of the room, such as the bed type or room area, as an icon followed by its value.
+**Room Features:** Displays the featured features of the room, such as the room size or the TV type, as an icon followed by its value.
 
 **Room Amenities:** Displays the featured amenities available in the room as icons. Hover over an icon to see the name of the amenity.
 
@@ -102,7 +102,7 @@ To remove the selected amenities, click **Clear Filter.**
 > **Note for Hotel Administrators:** The amenities displayed in this filter are managed from the Back Office. Navigate to **Hotel Reservation System → Manage Amenities** to add, modify, or remove amenities. Only active amenities are listed.
 
 ## Features Filter
-The Features filter helps guests find rooms with specific room features. Each feature selected by the administrator is displayed as a separate filter with its values, for example the bed type.
+The Features filter helps guests find rooms with specific room features. Each feature selected by the administrator is displayed as a separate filter with its values.
 
 Select one or more values to filter the room results.
 

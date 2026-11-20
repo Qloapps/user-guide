@@ -20,6 +20,6 @@ Click on **Edit** to edit a status.
 
 - **Name** : Enter the name of the status.
 - **Color** : Select the color of the status.
-- **Terminal (final) status** : This setting is fixed for each status, so it cannot be changed.
+- **Terminal (final) status** : This setting can be changed only for the **No-show** status. If it is **Yes**, a room with this status cannot be edited, only deleted. If it is **No**, the room status can still be changed, for example to undo an accidental no-show or for a late check-in. For the other statuses it is fixed and cannot be changed.
 
 Click on **Save** to save the changes.

@@ -177,7 +177,10 @@ After the update the status of the room is shown in the **Room status** column.
 - A room cannot be marked as No-show before the check-in date of the booking.
 - A room cannot be changed to No-show or Cancelled once the guest has checked in.
 - The last room of an order cannot be checked out while there are pending bills for the order.
-- When a room is set to No-show or Cancelled, a refund request is created for the room with status Pending if refunds are allowed for the hotel. You can process it from Manage Order Refund Requests.
+- When a room is set to No-show or Cancelled, a refund request is created for the room with status Pending if refunds are allowed for the hotel. The **Request type** of the request is **No-show** or **Cancellation**. You can process it from Manage Order Refund Requests.
+- The status of the room changes immediately, even if the refund request is still pending.
+- When all the rooms of the order are No-show or Cancelled, the status of the order is changed automatically to **No-show** (or **Canceled** if every room is cancelled). If a refund is completed for the order, the status of the order becomes **Refunded**. These statuses cannot be selected directly as the order status.
+- To undo a No-show (for example, if the guest arrives late), change the status of the room again to **Assigned**, **Checked-in** or **Cancelled**. This is possible only if **No-show** is not set as a final status in [Room Statuses](/1.8.0/orders/room_statuses/), the room booking has not been refunded, and the room is not booked in another booking for the same dates (reallocate the room first). After the change, the status of the order is set again from the amount paid: **Awaiting payment**, **Partial payment received** or **Complete payment received**.
 - The statuses can be renamed from [Room Statuses](/1.8.0/orders/room_statuses/).
 
 **Actions of a room**
